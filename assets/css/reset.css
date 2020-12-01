@@ -6,8 +6,6 @@
 
 html {
     -webkit-tap-highlight-color: transparent;
-    background-color: var(--theme);
-    color: var(--content);
 }
 
 h1,
