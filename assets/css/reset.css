@@ -5,18 +5,22 @@
 }
 
 html {
-    -webkit-tap-highlight-color: transparent
+    -webkit-tap-highlight-color: transparent;
+    background-color: var(--theme);
+    color: var(--content);
 }
 
-a,
-body,
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    color: var(--primary)
+    color: var(--primary);
+    border-color: var(--content);
+}
+a, a:active, a:visited {
+    color: var(--primary);
 }
 
 body {

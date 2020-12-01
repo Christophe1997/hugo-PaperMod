@@ -8,11 +8,13 @@
     display: block;
     padding: 3px 10px;
     background: var(--tertiary);
+    color: var(--blue);
     border-radius: 6px;
     transition: transform .1s
 }
 
 .terms-tags a:hover {
-    background: var(--tertiary);
+    /* background: var(--tertiary); */
+    color: var(--cyan);
     transform: scale(.96)
 }
