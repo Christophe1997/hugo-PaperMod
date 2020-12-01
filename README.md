@@ -24,7 +24,7 @@ ExampleSite can be found here: [exampleSite](https://github.com/adityatelange/hu
 
 ---
 ## About this fork
-I modify the original theme as follow:
+I modify the original theme as follow, check [difference](https://christophe1997.github.io/):
 - change original light/dark theme to solarized theme,
 - change original [highlight.js](https://highlightjs.org/) to Hugo build in Chroma,
 - add katex to theme layout according to [Math Typesetting](https://adityatelange.github.io/hugo-PaperMod/posts/math-typesetting/).
